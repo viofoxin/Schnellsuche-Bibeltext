@@ -242,7 +242,7 @@
         "ende": "Johannes 17,26",
         "buch": "1. Formen",
         "seite": "104",
-        "kreis": "Stille Ziet JG",
+        "kreis": "Stille Zeit JG",
         "datum": "2023-04-28"
     }, {
         "start": "1. Könige 19,1",
@@ -440,5 +440,447 @@
         "seite": "183",
         "kreis": "Frauenbibelkreis",
         "datum": "2023-10-16"
+    }, {
+        "start": "Jesaja 42,1",
+        "ende": "Jesaja 42,17",
+        "buch": "2. Sophie",
+        "seite": "1",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-10-23"
+    }, {
+        "start": "1. Mose 28,10",
+        "ende": "1. Mose 28,22",
+        "buch": "2. Sophie",
+        "seite": "4",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-10-30"
+    }, {
+        "start": "2. Könige 6,8",
+        "ende": "2. Könige 6,23",
+        "buch": "2. Sophie",
+        "seite": "13",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-11-06"
+    }, {
+        "start": "Offenbarung 5,1",
+        "ende": "Offenbarung 5,14",
+        "buch": "2. Sophie",
+        "seite": "18",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-11-13"
+    }, {
+        "start": "2. Korinther 5,1",
+        "ende": "2. Korinther 5,21",
+        "buch": "2. Sophie",
+        "seite": "19",
+        "kreis": "Stille Zeit JG",
+        "datum": "2023-11-17"
+    }, {
+        "start": "1. Mose 24,1",
+        "ende": "1. Mose 24,67",
+        "buch": "2. Sophie",
+        "seite": "20",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-11-20"
+    }, {
+        "start": "Philipper 3,12",
+        "ende": "Philipper 3,21",
+        "buch": "2. Sophie",
+        "seite": "28",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-11-27"
+    }, {
+        "start": "Joel 1,1",
+        "ende": "Joel 4,21",
+        "buch": "2. Sophie",
+        "seite": "29",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-12-04"
+    }, {
+        "start": "Micha 5,1",
+        "ende": "Micha 5,5",
+        "buch": "2. Sophie",
+        "seite": "34",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-12-11"
+    }, {
+        "start": "Lukas 2,1",
+        "ende": "Lukas 2,21",
+        "buch": "2. Sophie",
+        "seite": "35",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-12-18"
+    }, {
+        "start": "Lukas 15,11",
+        "ende": "Lukas 15,24",
+        "buch": "Silvesterrüstzeit",
+        "seite": "1",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-12-29"
+    }, {
+        "start": "1. Johannes 1,5",
+        "ende": "1. Johannes 2,2",
+        "buch": "Silvesterrüstzeit",
+        "seite": "4",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-12-30"
+    }, {
+        "start": "Psalm 23,1",
+        "ende": "Psalm 23,6",
+        "buch": "Silvesterrüstzeit",
+        "seite": "6",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-12-31"
+    }, {
+        "start": "Johannes 15,1",
+        "ende": "Johannes 15,11",
+        "buch": "Silvesterrüstzeit",
+        "seite": "14",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-01-02"
+    }, {
+        "start": "Johannes 13,1",
+        "ende": "Johannes 13,20",
+        "buch": "2. Sophie",
+        "seite": "45",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-01-15"
+    }, {
+        "start": "1. Mose 22,1",
+        "ende": "1. Mose 22,24",
+        "buch": "2. Sophie",
+        "seite": "50",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-01-22"
+    }, {
+        "start": "1. Chronik 17,1",
+        "ende": "1. Chronik 17,14",
+        "buch": "2. Sophie",
+        "seite": "53",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-01-29"
+    }, {
+        "start": "Jesaja 61,1",
+        "ende": "Jesaja 61,11",
+        "buch": "2. Sophie",
+        "seite": "56",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-02-05"
+    }, {
+        "start": "Haggai 1,1",
+        "ende": "Haggai 2,23",
+        "buch": "2. Sophie",
+        "seite": "70",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-02-12"
+    }, {
+        "start": "Lukas 4,1",
+        "ende": "Lukas 4,13",
+        "buch": "2. Sophie",
+        "seite": "71",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-02-19"
+    }, {
+        "start": "Römer 11,13",
+        "ende": "Römer 11,24",
+        "buch": "2. Sophie",
+        "seite": "72",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-02-26"
+    }, {
+        "start": "1. Mose 8,1",
+        "ende": "1. Mose 8,22",
+        "buch": "2. Sophie",
+        "seite": "100",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-03-11"
+    }, {
+        "start": "Sacharja 2,5",
+        "ende": "Sacharja 2,17",
+        "buch": "2. Sophie",
+        "seite": "106",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-03-18"
+    }, {
+        "start": "Lukas 22,31",
+        "ende": "Lukas 22,53",
+        "buch": "2. Sophie",
+        "seite": "109",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-03-25"
+    }, {
+        "start": "Apostelgeschichte 2,37",
+        "ende": "Apostelgeschichte 2,47",
+        "buch": "2. Sophie",
+        "seite": "123",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-04-08"
+    }, {
+        "start": "4. Mose 9,15",
+        "ende": "4. Mose 9,23",
+        "buch": "2. Sophie",
+        "seite": "127",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-04-15"
+    }, {
+        "start": "2. Mose 12,1",
+        "ende": "2. Mose 12,33",
+        "buch": "2. Sophie",
+        "seite": "132",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-04-22"
+    }, {
+        "start": "1. Petrus 2,1",
+        "ende": "1. Petrus 2,10",
+        "buch": "2. Sophie",
+        "seite": "133",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-04-29"
+    }, {
+        "start": "Offenbarung 3,1",
+        "ende": "Offenbarung 3,13",
+        "buch": "2. Sophie",
+        "seite": "134",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-05-06"
+    }, {
+        "start": "Offenbarung 3,1",
+        "ende": "Offenbarung 3,22",
+        "buch": "2. Sophie",
+        "seite": "135",
+        "kreis": "Stille Zeit JG",
+        "datum": "2024-05-10"
+    }, {
+        "start": "Matthäus 25,14",
+        "ende": "Matthäus 25,30",
+        "buch": "2. Sophie",
+        "seite": "138",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-05-13"
+    }, {
+        "start": "Maleachi 1,1",
+        "ende": "Maleachi 3,24",
+        "buch": "2. Sophie",
+        "seite": "144",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-05-20"
+    }, {
+        "start": "Daniel 10,1",
+        "ende": "Daniel 10,21",
+        "buch": "2. Sophie",
+        "seite": "146",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-05-27"
+    }, {
+        "start": "Römer 12,1",
+        "ende": "Römer 12,21",
+        "buch": "2. Sophie",
+        "seite": "151",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-06-10"
+    }, {
+        "start": "Johannes 8,1",
+        "ende": "Johannes 8,11",
+        "buch": "2. Sophie",
+        "seite": "155",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-06-17"
+    }, {
+        "start": "1. Mose 12,1",
+        "ende": "1. Mose 12,20",
+        "buch": "2. Sophie",
+        "seite": "156",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-24"
+    }, {
+        "start": "1.Mose 6,5",
+        "ende": "1. Mose 6,18",
+        "buch": "2. Sophie",
+        "seite": "159",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-25"
+    }, {
+        "start": "1.Mose 7,5",
+        "ende": "1. Mose 7,23",
+        "buch": "2. Sophie",
+        "seite": "159",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-25"
+    }, {
+        "start": "1.Mose 8,13",
+        "ende": "1. Mose 8,22",
+        "buch": "2. Sophie",
+        "seite": "159",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-25"
+    }, {
+        "start": "1.Mose 9,1",
+        "ende": "1. Mose 9,16",
+        "buch": "2. Sophie",
+        "seite": "159",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-25"
+    }, {
+        "start": "Epheser 4,17",
+        "ende": "Epheser 4,32",
+        "buch": "2. Sophie",
+        "seite": "161",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-26"
+    }, {
+        "start": "Johannes 15,1",
+        "ende": "Johannes 15,17",
+        "buch": "2. Sophie",
+        "seite": "164",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-27"
+    }, {
+        "start": "Psalm 1,1",
+        "ende": "Psalm 1,6",
+        "buch": "2. Sophie",
+        "seite": "165",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-06-28"
+    }, {
+        "start": "2. Chronik 15,1",
+        "ende": "2. Chronik 15,19",
+        "buch": "2. Sophie",
+        "seite": "169",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-07-08"
+    }, {
+        "start": "Psalm 40,1",
+        "ende": "Psalm 40,18",
+        "buch": "2. Sophie",
+        "seite": "170",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-07-15"
+    }, {
+        "start": "2. Korinther 5,1",
+        "ende": "2. Korinther 5,21",
+        "buch": "2. Sophie",
+        "seite": "171",
+        "kreis": "Stille Zeit JG",
+        "datum": "2024-07-26"
+    }, {
+        "start": "Matthäus 16,1",
+        "ende": "Matthäus 16,12",
+        "buch": "2. Sophie",
+        "seite": "172",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-07-29"
+    }, {
+        "start": "Römer 8,18",
+        "ende": "Römer 8,39",
+        "buch": "2. Sophie",
+        "seite": "173",
+        "kreis": "Stille Zeit JG",
+        "datum": "2024-08-02"
+    }, {
+        "start": "Titus 1,1",
+        "ende": "Titus 3,15",
+        "buch": "2. Sophie",
+        "seite": "174",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-08-05"
+    }, {
+        "start": "1. Mose 11,1",
+        "ende": "1. Mose 11,9",
+        "buch": "2. Sophie",
+        "seite": "175",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-08-12"
+    }, {
+        "start": "1. Korinther 1,18",
+        "ende": "1. Korinther 1,31",
+        "buch": "2. Sophie",
+        "seite": "176",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-08-19"
+    }, {
+        "start": "Matthäus 15,1",
+        "ende": "Matthäus 15,20",
+        "buch": "2. Sophie",
+        "seite": "177",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-08-26"
+    }, {
+        "start": "Apostelgeschichte 17,16",
+        "ende": "Apostelgeschichte 17,34",
+        "buch": "2. Sophie",
+        "seite": "178",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-09-02"
+    }, {
+        "start": "1. Mose 18,1",
+        "ende": "1. Mose 18,15",
+        "buch": "2. Sophie",
+        "seite": "179",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-09-09"
+    }, {
+        "start": "1. Korinther 11,17",
+        "ende": "1. Korinther 11,34",
+        "buch": "2. Sophie",
+        "seite": "180",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-09-16"
+    }, {
+        "start": "5. Mose 11,8",
+        "ende": "5. Mose 11,32",
+        "buch": "2. Sophie",
+        "seite": "181",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-09-30"
+    }, {
+        "start": "Apostelgeschichte 10,1",
+        "ende": "Apostelgeschichte 11,18",
+        "buch": "2. Sophie",
+        "seite": "182",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-10-07"
+    }, {
+        "start": "Johannes 2,1",
+        "ende": "Johannes 2,12",
+        "buch": "2. Sophie",
+        "seite": "183",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-10-14"
+    }, {
+        "start": "1. Johannes 3,1",
+        "ende": "1. Johannes 3,12",
+        "buch": "2. Sophie",
+        "seite": "184",
+        "kreis": "Stille Zeit JG",
+        "datum": "2024-10-18"
+    }, {
+        "start": "Jeremia 15,10",
+        "ende": "Jeremia 15,21",
+        "buch": "2. Sophie",
+        "seite": "185",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-10-21"
+    }, {
+        "start": "Jakobus 5,13",
+        "ende": "Jakobus 5,20",
+        "buch": "2. Sophie",
+        "seite": "188",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-10-28"
+    }, {
+        "start": "1. Korinther 13,1",
+        "ende": "1. Korinther 13,13",
+        "buch": "2. Sophie",
+        "seite": "189",
+        "kreis": "Stille Zeit JG",
+        "datum": "2024-11-01"
+    }, {
+        "start": "Philipper 4,1",
+        "ende": "Philipper 4,14",
+        "buch": "2. Sophie",
+        "seite": "193",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-11-04"
     }
 ]
+
