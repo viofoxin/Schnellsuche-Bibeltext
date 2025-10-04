@@ -888,7 +888,393 @@
         "seite": "2",
         "kreis": "Frauenbibelkreis",
         "datum": "2024-11-11"
+    }, {
+        "start": "Jesaja 11,1",
+        "ende": "Jesaja 11,16",
+        "buch": "3. Zweifarbig",
+        "seite": "3",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-11-25"
+    }, {
+        "start": "Lukas 1,26",
+        "ende": "Lukas 1,56",
+        "buch": "3. Zweifarbig",
+        "seite": "6",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-12-02"
+    }, {
+        "start": "Matthäus 1,18",
+        "ende": "Matthäus 1,25",
+        "buch": "3. Zweifarbig",
+        "seite": "6",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-12-09"
+    }, {
+        "start": "Markus 1,1",
+        "ende": "Markus 1,8",
+        "buch": "3. Zweifarbig",
+        "seite": "8",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2024-12-16"
+    }, {
+        "start": "Johannes 10,1",
+        "ende": "Johannes 10,16",
+        "buch": "3. Zweifarbig",
+        "seite": "9",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-12-29"
+    }, {
+        "start": "Johannes 14,15",
+        "ende": "Johannes 14,26",
+        "buch": "3. Zweifarbig",
+        "seite": "11",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-12-30"
+    }, {
+        "start": "Apostelgeschichte 16,16",
+        "ende": "Apostelgeschichte 16,31",
+        "buch": "3. Zweifarbig",
+        "seite": "13",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2024-12-31"
+    }, {
+        "start": "Lukas 15,1",
+        "ende": "Lukas 15,7",
+        "buch": "3. Zweifarbig",
+        "seite": "17",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-01-02"
+    }, {
+        "start": "1. Thessalonicher 5,12",
+        "ende": "1. Thessalonicher 5,28",
+        "buch": "3. Zweifarbig",
+        "seite": "19",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-01-06"
+    }, {
+        "start": "Lukas 18,1",
+        "ende": "Lukas 18,8",
+        "buch": "3. Zweifarbig",
+        "seite": "22",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-01-13"
+    }, {
+        "start": "2. Chronik 1,1",
+        "ende": "2. Chronik 1,13",
+        "buch": "3. Zweifarbig",
+        "seite": "23",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-01-20"
+    }, {
+        "start": "Apostelgeschichte 8,26",
+        "ende": "Apostelgeschichte 8,40",
+        "buch": "3. Zweifarbig",
+        "seite": "25",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-01-27"
+    }, {
+        "start": "Lukas 8,40",
+        "ende": "Lukas 8,56",
+        "buch": "3. Zweifarbig",
+        "seite": "26",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-02-03"
+    }, {
+        "start": "Matthäus 20,1",
+        "ende": "Matthäus 20,16",
+        "buch": "3. Zweifarbig",
+        "seite": "28",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-02-10"
+    }, {
+        "start": "Philipper 2,1",
+        "ende": "Philipper 2,18",
+        "buch": "3. Zweifarbig",
+        "seite": "29",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-01-14"
+    }, {
+        "start": "Jesaja 53,1",
+        "ende": "Jesaja 53,12",
+        "buch": "3. Zweifarbig",
+        "seite": "30",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-02-17"
+    }, {
+        "start": "Habakuk 1,1",
+        "ende": "Habakuk 3,19",
+        "buch": "3. Zweifarbig",
+        "seite": "31",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-02-24"
+    }, {
+        "start": "1. Korinther 2,1",
+        "ende": "1. Korinther 2,16",
+        "buch": "3. Zweifarbig",
+        "seite": "33",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-03-03"
+    }, {
+        "start": "Kolosser 2,16",
+        "ende": "Kolosser 2,23",
+        "buch": "3. Zweifarbig",
+        "seite": "34",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-03-07"
+    }, {
+        "start": "Daniel 6,11",
+        "ende": "Daniel 6,29",
+        "buch": "3. Zweifarbig",
+        "seite": "37",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-03-10"
+    }, {
+        "start": "Apostelgeschichte 28,1",
+        "ende": "Apostelgeschichte 28,16",
+        "buch": "3. Zweifarbig",
+        "seite": "65",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-03-24"
+    }, {
+        "start": "Lukas 5,27",
+        "ende": "Lukas 5,39",
+        "buch": "3. Zweifarbig",
+        "seite": "66",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-03-31"
+    }, {
+        "start": "Sacharja 9,9",
+        "ende": "Sacharja 9,17",
+        "buch": "3. Zweifarbig",
+        "seite": "72",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-04-07"
+    }, {
+        "start": "Lukas 24,13",
+        "ende": "Lukas 24,35",
+        "buch": "3. Zweifarbig",
+        "seite": "73",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-04-11"
+    }, {
+        "start": "Johannes 10,22",
+        "ende": "Johannes 10,42",
+        "buch": "3. Zweifarbig",
+        "seite": "81",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-04-28"
+    }, {
+        "start": "1. Samuel 1,9",
+        "ende": "1. Samuel 1,20",
+        "buch": "3. Zweifarbig",
+        "seite": "84",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-05-12"
+    }, {
+        "start": "Josua 1,1",
+        "ende": "Josua 1,18",
+        "buch": "3. Zweifarbig",
+        "seite": "90",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-05-19"
+    }, {
+        "start": "Lukas 10,1",
+        "ende": "Lukas 10,16",
+        "buch": "3. Zweifarbig",
+        "seite": "93",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-05-26"
+    }, {
+        "start": "Jesaja 17,1",
+        "ende": "Jesaja 17,14",
+        "buch": "3. Zweifarbig",
+        "seite": "96",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-06-02"
+    }, {
+        "start": "1. Johannes 4,7",
+        "ende": "1. Johannes 4,12",
+        "buch": "3. Zweifarbig",
+        "seite": "109",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-06-30"
+    }, {
+        "start": "1. Johannes 1,5",
+        "ende": "1. Johannes 1,10",
+        "buch": "3. Zweifarbig",
+        "seite": "112",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-07-01"
+    }, {
+        "start": "Psalm 34,1",
+        "ende": "Psalm 34,23",
+        "buch": "3. Zweifarbig",
+        "seite": "115",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-07-02"
+    }, {
+        "start": "1. Samuel 3,1",
+        "ende": "1. Samuel 3,10",
+        "buch": "3. Zweifarbig",
+        "seite": "118",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-07-03"
+    }, {
+        "start": "Apostelgeschichte 8,26",
+        "ende": "Apostelgeschichte 8,40",
+        "buch": "3. Zweifarbig",
+        "seite": "118",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-07-03"
+    }, {
+        "start": "Römer 5,1",
+        "ende": "Römer 5,11",
+        "buch": "3. Zweifarbig",
+        "seite": "121",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-07-04"
+    }, {
+        "start": "Römer 12,9",
+        "ende": "Römer 12,21",
+        "buch": "3. Zweifarbig",
+        "seite": "125",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-07-04"
+    }, {
+        "start": "1. Mose 12,10",
+        "ende": "1. Mose 12,20",
+        "buch": "3. Zweifarbig",
+        "seite": "127",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-07-07"
+    }, {
+        "start": "2. Mose 34,1",
+        "ende": "2. Mose 34,10",
+        "buch": "3. Zweifarbig",
+        "seite": "128",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-07-14"
+    }, {
+        "start": "Jeremia 1,4",
+        "ende": "Jeremia 1,19",
+        "buch": "3. Zweifarbig",
+        "seite": "129",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-07-18"
+    }, {
+        "start": "Philipper 3,1",
+        "ende": "Philipper 3,11",
+        "buch": "3. Zweifarbig",
+        "seite": "131",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-07-21"
+    }, {
+        "start": "Apostelgeschichte 5,34",
+        "ende": "Apostelgeschichte 5,42",
+        "buch": "3. Zweifarbig",
+        "seite": "133",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-07-28"
+    }, {
+        "start": "Offenbarung 2,1",
+        "ende": "Offenbarung 2,7",
+        "buch": "3. Zweifarbig",
+        "seite": "134",
+        "kreis": "Stille Zeit JG",
+        "datum": "2025-08-01"
+    }, {
+        "start": "Lukas 9,51",
+        "ende": "Lukas 9,62",
+        "buch": "3. Zweifarbig",
+        "seite": "137",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-08-11"
+    }, {
+        "start": "1. Petrus 5,1",
+        "ende": "1. Petrus 5,11",
+        "buch": "3. Zweifarbig",
+        "seite": "138",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-08-19"
+    }, {
+        "start": "2. Timotheus 2,14",
+        "ende": "2. Timotheus 2,26",
+        "buch": "3. Zweifarbig",
+        "seite": "139",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-08-25"
+    }, {
+        "start": "2. Korinther 6,1",
+        "ende": "2. Korinther 6,18",
+        "buch": "3. Zweifarbig",
+        "seite": "140",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-08-26"
+    }, {
+        "start": "Rut 1,1",
+        "ende": "Rut 4,22",
+        "buch": "3. Zweifarbig",
+        "seite": "144",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-09-01"
+    }, {
+        "start": "Römer 7,14",
+        "ende": "Römer 7,25",
+        "buch": "3. Zweifarbig",
+        "seite": "145",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-09-02"
+    }, {
+        "start": "Apostelgeschichte 5,1",
+        "ende": "Apostelgeschichte 5,11",
+        "buch": "3. Zweifarbig",
+        "seite": "152",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-09-08"
+    }, {
+        "start": "2. Mose 7,1",
+        "ende": "2. Mose 7,13",
+        "buch": "3. Zweifarbig",
+        "seite": "154",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-09-15"
+    }, {
+        "start": "Philipper 4,1",
+        "ende": "Philipper 4,9",
+        "buch": "3. Zweifarbig",
+        "seite": "156",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-09-16"
+    }, {
+        "start": "Johannes 9,1",
+        "ende": "Johannes 9,12",
+        "buch": "3. Zweifarbig",
+        "seite": "159",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-09-22"
+    }, {
+        "start": "1. Johannes 3,1",
+        "ende": "1. Johannes 3,24",
+        "buch": "3. Zweifarbig",
+        "seite": "160",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-09-23"
+    }, {
+        "start": "Richter 13,1",
+        "ende": "Richter 13,25",
+        "buch": "3. Zweifarbig",
+        "seite": "162",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-09-29"
+    }, {
+        "start": "Jesaja 60,1",
+        "ende": "Jesaja 60,22",
+        "buch": "3. Zweifarbig",
+        "seite": "163",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-09-30"
     }
 ]
+
 
 
