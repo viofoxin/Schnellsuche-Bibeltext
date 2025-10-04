@@ -32,7 +32,7 @@ h1 {
 }
 
 #input:focus {
-  border-color: #2563eb;
+  border-color: #3f543d;
   outline: none;
   box-shadow: 0 0 5px rgba(37, 99, 235, 0.4);
 }
@@ -50,7 +50,7 @@ table {
 
 /* Table headers */
 th {
-  background: #2563eb;
+  background: #3f543d;
   color: white;
   text-align: left;
   padding: 0.75rem;
@@ -112,5 +112,6 @@ tr:hover {
     border-bottom: none;
   }
 }
+
 
 
