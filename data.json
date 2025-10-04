@@ -48,15 +48,177 @@
         "seite": "21",
         "kreis": "Konfiprojekt",
         "datum": "2022-09-18"
-    },{
+    }, {
         "start": "Lukas 8,1",
         "ende": "Lukas 8,3",
         "buch": "1. Formen",
         "seite": "23",
         "kreis": "Frauenbibelkreis",
         "datum": "2022-09-19"
-    },
+    }, {
+        "start": "Lukas 10,35",
+        "ende": "Lukas 10,42",
+        "buch": "1. Formen",
+        "seite": "24",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-09-26"
+    }, {
+        "start": "1.Mose 15,1",
+        "ende": "1.Mose 15,21",
+        "buch": "1. Formen",
+        "seite": "25",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-10-03"
+    }, {
+        "start": "Lukas 13,10",
+        "ende": "Lukas 13,17",
+        "buch": "1. Formen",
+        "seite": "26",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-10-10"
+    }, {
+        "start": "1. Samuel 17,32",
+        "ende": "1. Samuel 17,51",
+        "buch": "1. Formen",
+        "seite": "27",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-10-17"
+    }, {
+        "start": "Apostelgeschichte 16,16",
+        "ende": "Apostelgeschichte 16,40",
+        "buch": "1. Formen",
+        "seite": "28",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-10-24"
+    }, {
+        "start": "Jeremia 17,5",
+        "ende": "Jeremia 17,10",
+        "buch": "1. Formen",
+        "seite": "29",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-11-07"
+    }, {
+        "start": "Prediger 3,1",
+        "ende": "Prediger 3,15",
+        "buch": "1. Formen",
+        "seite": "30",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-11-21"
+    }, {
+        "start": "Matthäus 25,1",
+        "ende": "Matthäus 25,13",
+        "buch": "1. Formen",
+        "seite": "31",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-11-29"
+    }, {
+        "start": "Matthäus 6,5",
+        "ende": "Matthäus 6,15",
+        "buch": "1. Formen",
+        "seite": "32",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-12-12"
+    }, {
+        "start": "Matthäus 5,1",
+        "ende": "Matthäus 5,16",
+        "buch": "1. Formen",
+        "seite": "33",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2022-12-29"
+    }, {
+        "start": "Johannes 3,1",
+        "ende": "Johannes 3,6",
+        "buch": "1. Formen",
+        "seite": "37",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2022-12-30"
+    }, {
+        "start": "Johannes 3,14",
+        "ende": "Johannes 3,21",
+        "buch": "1. Formen",
+        "seite": "37",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2022-12-30"
+    }, {
+        "start": "Matthäus 6,5",
+        "ende": "Matthäus 6,18",
+        "buch": "1. Formen",
+        "seite": "40",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2022-12-31"
+    }, {
+        "start": "Matthäus 6,25",
+        "ende": "Matthäus 6,34",
+        "buch": "1. Formen",
+        "seite": "46",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-01-02"
+    }, {
+        "start": "Matthäus 7,7",
+        "ende": "Matthäus 7,12",
+        "buch": "1. Formen",
+        "seite": "46",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-01-02"
+    }, {
+        "start": "1.Mose 16,1",
+        "ende": "1.Mose 16,16",
+        "buch": "1. Formen",
+        "seite": "49",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-01-02"
+    }, {
+        "start": "Kolosser 3,1",
+        "ende": "Kolosser 3,17",
+        "buch": "1. Formen",
+        "seite": "50",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-01-16"
+    }, {
+        "start": "1. Mose 4,1",
+        "ende": "1. Mose 4,17",
+        "buch": "1. Formen",
+        "seite": "51",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-01-23"
+    }, {
+        "start": "1. Mose 6,1",
+        "ende": "1. Mose 6,22",
+        "buch": "1. Formen",
+        "seite": "52",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-01-30"
+    }, {
+        "start": "Apostelgeschichte 9,1",
+        "ende": "Apostelgeschichte 9,19",
+        "buch": "1. Formen",
+        "seite": "53",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-02-06"
+    }, {
+        "start": "Römer 5,1",
+        "ende": "Römer 5,11",
+        "buch": "1. Formen",
+        "seite": "54",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-02-13"
+    }, {
+        "start": "Jesaja 58,1",
+        "ende": "Jesaja 58,14",
+        "buch": "1. Formen",
+        "seite": "55",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-02-20"
+    }, {
+        "start": "Epheser 6,10",
+        "ende": "Epheser 6,20",
+        "buch": "1. Formen",
+        "seite": "59",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-02-27"
+    }
 
 ]
+
 
 
