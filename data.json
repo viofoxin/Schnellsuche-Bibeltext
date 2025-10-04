@@ -27,8 +27,36 @@
         "seite": "10",
         "kreis": "Licht auf dem Berg",
         "datum": "2022-07-21"
-    }
-    
+    }, {
+        "start": "Lukas 24,13",
+        "ende": "Lukas 24,36",
+        "buch": "1. Formen",
+        "seite": "13",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2022-07-22"
+    }, {
+        "start": "Matthäus 14,22",
+        "ende": "Matthäus 14,33",
+        "buch": "1. Formen",
+        "seite": "18",
+        "kreis": "Konfiprojekt",
+        "datum": "2022-09-17"
+    }, {
+        "start": "Johannes 1,19",
+        "ende": "Johannes 1,34",
+        "buch": "1. Formen",
+        "seite": "21",
+        "kreis": "Konfiprojekt",
+        "datum": "2022-09-18"
+    },{
+        "start": "Lukas 8,1",
+        "ende": "Lukas 8,3",
+        "buch": "1. Formen",
+        "seite": "23",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2022-09-19"
+    },
 
 ]
+
 
