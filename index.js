@@ -4,7 +4,7 @@ let data = [];
 fetch("data.json").then(response => response.json()).then(json => data = json);
 function toVers(ref) {
   ref = ref.trim().replace(/\s+/g, " ");
-  const match = ref.match(/^(\d\.?\s*)?(\p{L}+)\s*(\d+)?[,.:;]?\s*(\d+)?$/);
+  const match = ref.match(/^(\d\.?\s*)?(\p{L}+)\s*(\d+)?[,.:;]?\s*(\d+)?$/u);
   if(!match) throw ref;
   let [_, prefix, book, chapter, verse] = match;
   prefix = prefix ? prefix.replace(/\D/g, "") : "";
@@ -54,4 +54,5 @@ function update() {
     `;
 
 }
+
 
