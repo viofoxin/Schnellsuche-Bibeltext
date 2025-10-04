@@ -223,9 +223,208 @@
         "seite": "61",
         "kreis": "Frauenbibelkreis",
         "datum": "2023-03-06"
+    }, {
+        "start": "2. Korinther 12,1",
+        "ende": "2. Korinther 12,10",
+        "buch": "1. Formen",
+        "seite": "83",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-03-20"
+    }, {
+        "start": "Johannes 17,6",
+        "ende": "Johannes 17,26",
+        "buch": "1. Formen",
+        "seite": "95",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-04-17"
+    }, {
+        "start": "Johannes 17,9",
+        "ende": "Johannes 17,26",
+        "buch": "1. Formen",
+        "seite": "104",
+        "kreis": "Stille Ziet JG",
+        "datum": "2023-04-28"
+    }, {
+        "start": "1. Könige 19,1",
+        "ende": "1. Könige 19,21",
+        "buch": "1. Formen",
+        "seite": "107",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-05-08"
+    }, {
+        "start": "5. Mose 8,1",
+        "ende": "5. Mose 8,20",
+        "buch": "1. Formen",
+        "seite": "109",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-05-15"
+    }, {
+        "start": "Matthäus 5,1",
+        "ende": "Matthäus 5,16",
+        "buch": "1. Formen",
+        "seite": "112",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-05-22"
+    }, {
+        "start": "Apostelgeschichte 2,1",
+        "ende": "Apostelgeschichte 2,13",
+        "buch": "1. Formen",
+        "seite": "115",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-05-29"
+    }, {
+        "start": "1. Mose 32,23",
+        "ende": "1. Mose 32,33",
+        "buch": "1. Formen",
+        "seite": "119",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-06-05"
+    }, {
+        "start": "Matthäus 21,12",
+        "ende": "Matthäus 21,17",
+        "buch": "1. Formen",
+        "seite": "124",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-06-26"
+    }, {
+        "start": "Matthäus 16,13",
+        "ende": "Matthäus 16,23",
+        "buch": "1. Formen",
+        "seite": "127",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-07-03"
+    }, {
+        "start": "2. Mose 12,1",
+        "ende": "2. Mose 12,14",
+        "buch": "1. Formen",
+        "seite": "129",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-10"
+    }, {
+        "start": "2. Mose 12,21",
+        "ende": "2. Mose 12,33",
+        "buch": "1. Formen",
+        "seite": "129",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-10"
+    }, {
+        "start": "1. Petrus 1,18",
+        "ende": "1. Petrus 1,19",
+        "buch": "1. Formen",
+        "seite": "129",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-10"
+    }, {
+        "start": "2. Mose 12,14",
+        "ende": "2. Mose 12,20",
+        "buch": "1. Formen",
+        "seite": "132",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-11"
+    }, {
+        "start": "1. Korinther 5,6",
+        "ende": "1. Korinther 5,8",
+        "buch": "1. Formen",
+        "seite": "132",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-11"
+    }, {
+        "start": "Kolosser 3,1",
+        "ende": "Kolosser 3,17",
+        "buch": "1. Formen",
+        "seite": "135",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-12"
+    }, {
+        "start": "Apostelgeschichte 2,1",
+        "ende": "Apostelgeschichte 2,41",
+        "buch": "1. Formen",
+        "seite": "138",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-13"
+    }, {
+        "start": "Micha 4,1",
+        "ende": "Micha 4,5",
+        "buch": "1. Formen",
+        "seite": "142",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2023-07-14"
+    }, {
+        "start": "Jona 1,1",
+        "ende": "Jona 4,11",
+        "buch": "1. Formen",
+        "seite": "148",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-07-17"
+    }, {
+        "start": "Matthäus 7,13",
+        "ende": "Matthäus 7,23",
+        "buch": "1. Formen",
+        "seite": "152",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-07-24"
+    }, {
+        "start": "Matthäus 24,1",
+        "ende": "Matthäus 24,28",
+        "buch": "1. Formen",
+        "seite": "153",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-07-31"
+    }, {
+        "start": "Lukas 7,36",
+        "ende": "Lukas 7,50",
+        "buch": "1. Formen",
+        "seite": "156",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-08-14"
+    }, {
+        "start": "Johannes 20,24",
+        "ende": "Johannes 20,31",
+        "buch": "1. Formen",
+        "seite": "157",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-08-21"
+    }, {
+        "start": "Römer 1,18",
+        "ende": "Römer 1,32",
+        "buch": "1. Formen",
+        "seite": "160",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-08-28"
+    }, {
+        "start": "Daniel 3,19",
+        "ende": "Daniel 3,33",
+        "buch": "1. Formen",
+        "seite": "164",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-09-04"
+    }, {
+        "start": "1. Korinther 3,1",
+        "ende": "1. Korinther 3,23",
+        "buch": "1. Formen",
+        "seite": "166",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-09-11"
+    }, {
+        "start": "1. Mose 1,1",
+        "ende": "1. Mose 2,4",
+        "buch": "1. Formen",
+        "seite": "171",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-09-18"
+    }, {
+        "start": "Matthäus 16,24",
+        "ende": "Matthäus 17,13",
+        "buch": "1. Formen",
+        "seite": "172",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2023-09-25"
     }
 
+
+
 ]
+
 
 
 
