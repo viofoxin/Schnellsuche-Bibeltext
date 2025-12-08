@@ -2240,8 +2240,8 @@
         "kreis": "Frauenbibelkreis",
         "datum": "2025-11-03"
     }, {
-        "start": "Pslam 116,1",
-        "ende": "Pslam 116,19",
+        "start": "Psalm 116,1",
+        "ende": "Psalm 116,19",
         "buch": "Stille Zeit Sonnenblume",
         "seite": "51",
         "kreis": "Stille Zeit ",
@@ -2275,8 +2275,8 @@
         "kreis": "Stille Zeit ",
         "datum": "2025-11-08"
     }, {
-        "start": "Pslam 91,1",
-        "ende": "Pslam 91,16",
+        "start": "Psalm 91,1",
+        "ende": "Psalm 91,16",
         "buch": "3. Zweifarbig",
         "seite": "183",
         "kreis": "Frauenbibelkreis",
@@ -2302,8 +2302,44 @@
         "seite": "53",
         "kreis": "Stille Zeit ",
         "datum": "2025-11-15"
+    }, {
+        "start": "Markus 8,1",
+        "ende": "Markus 8,21",
+        "buch": "3. Zweifarbig",
+        "seite": "186",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-11-17"
+    }, {
+        "start": "Psalm 18,1",
+        "ende": "Psalm 18,51",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "53",
+        "kreis": "Stille Zeit ",
+        "datum": "2025-11-18"
+    }, {
+        "start": "Römer 4,13",
+        "ende": "Römer 4,25",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "53",
+        "kreis": "Stille Zeit ",
+        "datum": "2025-11-18"
+    }, {
+        "start": "Römer 14,1",
+        "ende": "Römer 14,23",
+        "buch": "Lila Muster",
+        "seite": "1",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-12-02"
+    }, {
+        "start": "5. Mose 31,9",
+        "ende": "5. Mose 31,13",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "53",
+        "kreis": "Stille Zeit ",
+        "datum": "2025-12-04"
     }
 ]
+
 
 
 
