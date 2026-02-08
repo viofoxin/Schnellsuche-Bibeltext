@@ -2337,8 +2337,261 @@
         "seite": "53",
         "kreis": "Stille Zeit ",
         "datum": "2025-12-04"
+    }, {
+        "start": "Jesaja 46,1",
+        "ende": "Jesaja 46,8",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "54",
+        "kreis": "Stille Zeit ",
+        "datum": "2025-12-09"
+    }, {
+        "start": "Apostelgeschichte 5,17",
+        "ende": "Apostelgeschichte 5,32",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "54",
+        "kreis": "Stille Zeit ",
+        "datum": "2025-12-09"
+    }, {
+        "start": "Matthäus 22,1",
+        "ende": "Matthäus 22,46",
+        "buch": "Lila Muster",
+        "seite": "5",
+        "kreis": "Hauskreis JG",
+        "datum": "2025-12-09"
+    }, {
+        "start": "Lukas 2,21",
+        "ende": "Lukas 2,40",
+        "buch": "Lila Muster",
+        "seite": "15",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2025-12-22"
+    }, {
+        "start": "1. Korinther 13,1",
+        "ende": "1. Korinther 13,13",
+        "buch": "Lila Muster",
+        "seite": "19",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-12-29"
+    }, {
+        "start": "Lukas 15,11",
+        "ende": "Lukas 15,24",
+        "buch": "Lila Muster",
+        "seite": "22",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2025-12-30"
+    }, {
+        "start": "Josua 6,1",
+        "ende": "Josua 6,20",
+        "buch": "Lila Muster",
+        "seite": "33",
+        "kreis": "Licht auf dem Berg",
+        "datum": "2026-01-02"
+    }, {
+        "start": "1. Petrus 1,13",
+        "ende": "1. Petrus 1,25",
+        "buch": "Lila Muster",
+        "seite": "36",
+        "kreis": "Stille Zeit JG",
+        "datum": "2026-01-02"
+    }, {
+        "start": "Offenbarung 21,1",
+        "ende": "Offenbarung 21,27",
+        "buch": "Lila Muster",
+        "seite": "40",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-01-05"
+    }, {
+        "start": "Jesaja 8,11",
+        "ende": "Jesaja 8,22",
+        "buch": "Lila Muster",
+        "seite": "45",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-01-12"
+    }, {
+        "start": "2. Mose 33,7",
+        "ende": "2. Mose 33,17",
+        "buch": "Lila Muster",
+        "seite": "46",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-01-19"
+    }, {
+        "start": "Prediger 4,17",
+        "ende": "Prediger 5,19",
+        "buch": "Lila Muster",
+        "seite": "48",
+        "kreis": "Hauskreis JG",
+        "datum": "2026-01-20"
+    }, {
+        "start": "2. Mose 17,1",
+        "ende": "2. Mose 17,16",
+        "buch": "Lila Muster",
+        "seite": "50",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-01-26"
+    }, {
+        "start": "Jakobus 1,1",
+        "ende": "Jakobus 1,18",
+        "buch": "Lila Muster",
+        "seite": "52",
+        "kreis": "Stille Zeit JG",
+        "datum": "2026-01-30"
+    }, {
+        "start": "1. Petrus 1,13",
+        "ende": "1. Petrus 1,25",
+        "buch": "Lila Muster",
+        "seite": "56",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-02-02"
+    }, {
+        "start": "Johannes 1,1",
+        "ende": "Johannes 1,28",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-19"
+    }, {
+        "start": "Johannes 1,29",
+        "ende": "Johannes 1,51",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-20"
+    }, {
+        "start": "Johannes 2,1",
+        "ende": "Johannes 2,25",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-21"
+    }, {
+        "start": "Johannes 3,1",
+        "ende": "Johannes 3,36",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-22"
+    }, {
+        "start": "Johannes 4,1",
+        "ende": "Johannes 4,42",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-23"
+    }, {
+        "start": "Johannes 4,43",
+        "ende": "Johannes 5,18",
+        "buch": "Handy",
+        "seite": "1",
+        "kreis": "JÜS",
+        "datum": "2026-01-24"
+    }, {
+        "start": "Johannes 5,19",
+        "ende": "Johannes 5,47",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-25"
+    }, {
+        "start": "Johannes 6,1",
+        "ende": "Johannes 6,35",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-26"
+    }, {
+        "start": "Johannes 6,36",
+        "ende": "Johannes 6,71",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-27"
+    }, {
+        "start": "Johannes 7,1",
+        "ende": "Johannes 7,36",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-28"
+    }, {
+        "start": "Johannes 7,37",
+        "ende": "Johannes 8,20",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-29"
+    }, {
+        "start": "Johannes 8,21",
+        "ende": "Johannes 8,59",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-30"
+    }, {
+        "start": "Johannes 9,1",
+        "ende": "Johannes 9,41",
+        "buch": "Handy",
+        "seite": "2",
+        "kreis": "JÜS",
+        "datum": "2026-01-31"
+    }, {
+        "start": "Johannes 10,1",
+        "ende": "Johannes 10,39",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-01"
+    }, {
+        "start": "Johannes 10,40",
+        "ende": "Johannes 11,44",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-02"
+    }, {
+        "start": "Johannes 11,45",
+        "ende": "Johannes 12,19",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-03"
+    }, {
+        "start": "Johannes 12,20",
+        "ende": "Johannes 12,50",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-04"
+    }, {
+        "start": "Johannes 13,1",
+        "ende": "Johannes 13,38",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-05"
+    }, {
+        "start": "Johannes 14,1",
+        "ende": "Johannes 14,31",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-06"
+    }, {
+        "start": "Johannes 15,1",
+        "ende": "Johannes 16,4a",
+        "buch": "Handy",
+        "seite": "3",
+        "kreis": "JÜS",
+        "datum": "2026-02-07"
+    }, {
+        "start": "Psalm 1,1",
+        "ende": "Psalm 1,6",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-08"
     }
 ]
+
 
 
 
