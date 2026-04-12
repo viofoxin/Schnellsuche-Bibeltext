@@ -2589,6 +2589,433 @@
         "seite": "4",
         "kreis": "JÜS",
         "datum": "2026-02-08"
+    }, {
+        "start": "Johannes 16,4",
+        "ende": "Johannes 16,33",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-09"
+    }, {
+        "start": "Johannes 17,1",
+        "ende": "Johannes 17,26",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-10"
+    }, {
+        "start": "Johannes 18,1",
+        "ende": "Johannes 18,27",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-11"
+    }, {
+        "start": "Johannes 18,28",
+        "ende": "Johannes 19,16",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-12"
+    }, {
+        "start": "Johannes 19,16",
+        "ende": "Johannes 19,42",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-13"
+    }, {
+        "start": "Johannes 20,1",
+        "ende": "Johannes 20,31",
+        "buch": "Handy",
+        "seite": "4",
+        "kreis": "JÜS",
+        "datum": "2026-02-14"
+    }, {
+        "start": "Psalm 2,1",
+        "ende": "Psalm 2,12",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-15"
+    }, {
+        "start": "Johannes 21,1",
+        "ende": "Johannes 21,25",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-16"
+    }, {
+        "start": "1. Johannes 1,1",
+        "ende": "1. Johannes 1,10",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-17"
+    }, {
+        "start": "1. Johannes 2,1",
+        "ende": "1. Johannes 2,17",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-18"
+    }, {
+        "start": "1. Johannes 2,18",
+        "ende": "1. Johannes 3,10",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-19"
+    }, {
+        "start": "1. Johannes 3,11",
+        "ende": "1. Johannes 3,24",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-20"
+    }, {
+        "start": "1. Johannes 4,1",
+        "ende": "1. Johannes 4,21",
+        "buch": "Handy",
+        "seite": "5",
+        "kreis": "JÜS",
+        "datum": "2026-02-21"
+    }, {
+        "start": "Psalm 3,1",
+        "ende": "Psalm 3,9",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-22"
+    }, {
+        "start": "1. Johannes 5,1",
+        "ende": "1. Johannes 5,21",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-23"
+    }, {
+        "start": "1. Mose 19,13",
+        "ende": "1. Mose 19,29",
+        "buch": "Lila Muster",
+        "seite": "62",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-02-23"
+    }, {
+        "start": "2. Johannes 1,1",
+        "ende": "2. Johannes 1,13",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-24"
+    }, {
+        "start": "3. Johannes 1,1",
+        "ende": "3. Johannes 1,15",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-25"
+    }, {
+        "start": "Römer 1,1",
+        "ende": "Römer 1,17",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-26"
+    }, {
+        "start": "Römer 1,18",
+        "ende": "Römer 1,32",
+        "buch": "Handy",
+        "seite": "6",
+        "kreis": "JÜS",
+        "datum": "2026-02-27"
+    }, {
+        "start": "Römer 2,1",
+        "ende": "Römer 2,16",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-02"
+    }, {
+        "start": "Römer 2,17",
+        "ende": "Römer 2,29",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-03"
+    }, {
+        "start": "Römer 3,1",
+        "ende": "Römer 3,20",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-04"
+    }, {
+        "start": "Römer 3,21",
+        "ende": "Römer 3,31",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-05"
+    }, {
+        "start": "Römer 4,1",
+        "ende": "Römer 4,25",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-06"
+    }, {
+        "start": "Römer 5,1",
+        "ende": "Römer 5,21",
+        "buch": "Handy",
+        "seite": "7",
+        "kreis": "JÜS",
+        "datum": "2026-03-07"
+    }, {
+        "start": "Psalm 4,1",
+        "ende": "Psalm 4,9",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-08"
+    }, {
+        "start": "Römer 6,1",
+        "ende": "Römer 6,23",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-09"
+    }, {
+        "start": "Sprüche 31,10",
+        "ende": "Sprüche 31,31",
+        "buch": "Lila Muster",
+        "seite": "94",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-03-09"
+    }, {
+        "start": "Römer 7,1",
+        "ende": "Römer 7,25",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-10"
+    }, {
+        "start": "Römer 8,1",
+        "ende": "Römer 8,17",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-11"
+    }, {
+        "start": "Römer 8,18",
+        "ende": "Römer 8,39",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-12"
+    }, {
+        "start": "Römer 9,1",
+        "ende": "Römer 9,33",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-13"
+    }, {
+        "start": "Jakobus 2,14",
+        "ende": "Jakobus 2,26",
+        "buch": "Lila Muster",
+        "seite": "96",
+        "kreis": "Stille Zeit JG",
+        "datum": "2026-03-13"
+    }, {
+        "start": "Römer 10,1",
+        "ende": "Römer 10,21",
+        "buch": "Handy",
+        "seite": "8",
+        "kreis": "JÜS",
+        "datum": "2026-03-14"
+    }, {
+        "start": "Psalm 5,1",
+        "ende": "Psalm 5,13",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-15"
+    }, {
+        "start": "Römer 11,1",
+        "ende": "Römer 11,16",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-16"
+    }, {
+        "start": "2. Mose 20,1",
+        "ende": "2. Mose 20,21",
+        "buch": "Lila Muster",
+        "seite": "98",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-03-16"
+    }, {
+        "start": "Römer 11,17",
+        "ende": "Römer 11,36",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-17"
+    }, {
+        "start": "Römer 12,1",
+        "ende": "Römer 12,21",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-18"
+    }, {
+        "start": "Römer 13,1",
+        "ende": "Römer 13,14",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-19"
+    }, {
+        "start": "Römer 14,1",
+        "ende": "Römer 14,23",
+        "buch": "Handy",
+        "seite": "9",
+        "kreis": "JÜS",
+        "datum": "2026-03-20"
+    }, {
+        "start": "Römer 15,1",
+        "ende": "Römer 15,33",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-23"
+    }, {
+        "start": "Johannes 18,28",
+        "ende": "Johannes 18,40",
+        "buch": "Lila Muster",
+        "seite": "99",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-03-23"
+    }, {
+        "start": "Römer 16,1",
+        "ende": "Römer 16,27",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-24"
+    }, {
+        "start": "1. Korinther 1,1",
+        "ende": "1. Korinther 1,31",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-25"
+    }, {
+        "start": "1. Korinther 2,1",
+        "ende": "1. Korinther 2,16",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-26"
+    }, {
+        "start": "1. Korinther 3,1",
+        "ende": "1. Korinther 3,23",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-27"
+    }, {
+        "start": "1. Korinther 4,1",
+        "ende": "1. Korinther 4,21",
+        "buch": "Handy",
+        "seite": "10",
+        "kreis": "JÜS",
+        "datum": "2026-03-28"
+    }, {
+        "start": "Psalm 6,1",
+        "ende": "Psalm 6,11",
+        "buch": "Handy",
+        "seite": "11",
+        "kreis": "JÜS",
+        "datum": "2026-03-29"
+    }, {
+        "start": "1. Korinther 5,1",
+        "ende": "1. Korinther 5,13",
+        "buch": "Handy",
+        "seite": "11",
+        "kreis": "JÜS",
+        "datum": "2026-03-30"
+    }, {
+        "start": "1. Korinther 6,1",
+        "ende": "1. Korinther 6,20",
+        "buch": "Handy",
+        "seite": "11",
+        "kreis": "JÜS",
+        "datum": "2026-03-31"
+    }, {
+        "start": "1. Korinther 7,1",
+        "ende": "1. Korinther 7,16",
+        "buch": "Handy",
+        "seite": "11",
+        "kreis": "JÜS",
+        "datum": "2026-04-01"
+    }, {
+        "start": "1. Korinther 7,17",
+        "ende": "1. Korinther 7,40",
+        "buch": "Handy",
+        "seite": "11",
+        "kreis": "JÜS",
+        "datum": "2026-04-02"
+    }, {
+        "start": "1. Korinther 8,1",
+        "ende": "1. Korinther 8,13",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-06"
+    }, {
+        "start": "1. Korinther 9,1",
+        "ende": "1. Korinther 9,27",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-07"
+    }, {
+        "start": "1. Korinther 10,1",
+        "ende": "1. Korinther 10,33",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-08"
+    }, {
+        "start": "1. Korinther 11,1",
+        "ende": "1. Korinther 11,34",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-09"
+    }, {
+        "start": "1. Korinther 12,1",
+        "ende": "1. Korinther 12,31",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-10"
+    }, {
+        "start": "Psalm 99,1",
+        "ende": "Psalm 99,9",
+        "buch": "Lila Muster",
+        "seite": "109",
+        "kreis": "Stille Zeit JG",
+        "datum": "2026-04-10"
+    }, {
+        "start": "1. Korinther 13,1",
+        "ende": "1. Korinther 13,13",
+        "buch": "Handy",
+        "seite": "12",
+        "kreis": "JÜS",
+        "datum": "2026-04-11"
     }
 ]
 
