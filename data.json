@@ -3016,7 +3016,296 @@
         "seite": "12",
         "kreis": "JÜS",
         "datum": "2026-04-11"
+    }, {
+        "start": "Johannes 21,1",
+        "ende": "Johannes 21,14",
+        "buch": "Lila Muster",
+        "seite": "111",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-04-13"
+    }, {
+        "start": "Jesaja 55,1",
+        "ende": "Jesaja 55,13",
+        "buch": "Lila Muster",
+        "seite": "116",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-04-20"
+    }, {
+        "start": "2. Thessalonicher 2,1",
+        "ende": "2. Thessalonicher 2,17",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "55",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-04-27"
+    }, {
+        "start": "Römer 8,1",
+        "ende": "Römer 8,17",
+        "buch": "Lila Muster",
+        "seite": "120",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-05-04"
+    }, {
+        "start": "2. Mose 2,1",
+        "ende": "2. Mose 2,15",
+        "buch": "Lila Muster",
+        "seite": "125",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-05-11"
+    }, {
+        "start": "Psalm 115,1",
+        "ende": "Psalm 115,18",
+        "buch": "Lila Muster",
+        "seite": "126",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-05-18"
+    }, {
+        "start": "1. Korinther 9,19",
+        "ende": "1. Korinther 9,27",
+        "buch": "Lila Muster",
+        "seite": "133",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-06-01"
+    }, {
+        "start": "Matthäus 5,38",
+        "ende": "Matthäus 5,48",
+        "buch": "Lila Muster",
+        "seite": "137",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-06-08"
+    }, {
+        "start": "Apostelgeschichte 4,23",
+        "ende": "Apostelgeschichte 4,37",
+        "buch": "Lila Muster",
+        "seite": "141",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-06-15"
+    }, {
+        "start": "1. Könige 18,16",
+        "ende": "1. Könige 18,40",
+        "buch": "Lila Muster",
+        "seite": "142",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-06-22"
+    }, {
+        "start": "Psalm 51,1",
+        "ende": "Psalm 51,21",
+        "buch": "Lila Muster",
+        "seite": "143",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-06-29"
+    }, {
+        "start": "Epheser 1,15",
+        "ende": "Epheser 1,23",
+        "buch": "Lila Muster",
+        "seite": "145",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-07-06"
+    }, {
+        "start": "Johannes 12,20",
+        "ende": "Johannes 12,36",
+        "buch": "Lila Muster",
+        "seite": "148",
+        "kreis": "Frauenbibelkreis",
+        "datum": "2026-07-13"
+    }, {
+        "start": "Matthäus 14,22",
+        "ende": "Matthäus 14,33",
+        "buch": "Stille Zeit Sonnenblume",
+        "seite": "56",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-11"
+    }, {
+        "start": "Kolosser 3,12",
+        "ende": "Kolosser 3,17",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-06-27"
+    }, {
+        "start": "Römer 12,1",
+        "ende": "Römer 12,1",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-01"
+    }, {
+        "start": "Lukas 12,37",
+        "ende": "Lukas 12,37",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-03"
+    }, {
+        "start": "Klagelieder 3,26",
+        "ende": "Klagelieder 3,26",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-04"
+    }, {
+        "start": "Hebräer 12,1",
+        "ende": "Hebräer 12,2",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-05"
+    }, {
+        "start": "1. Samuel 16,7",
+        "ende": "1. Samuel 16,7",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-06"
+    }, {
+        "start": "5. Mose 11,26",
+        "ende": "5. Mose 11,28",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-07"
+    }, {
+        "start": "Psalm 99,5",
+        "ende": "Psalm 99,5",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-08"
+    }, {
+        "start": "Römer 6,6",
+        "ende": "Römer 6,6",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-09"
+    }, {
+        "start": "Nehemia 8,10",
+        "ende": "Nehemia 8,10",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-10"
+    }, {
+        "start": "Psalm 145,18",
+        "ende": "Psalm 145,18",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-11"
+    }, {
+        "start": "2. Korinther 5,19",
+        "ende": "2. Korinther 5,21",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-12"
+    }, {
+        "start": "Johannes 14,6",
+        "ende": "Johannes 14,6",
+        "buch": "365",
+        "seite": "0",
+        "kreis": "Stille Zeit ",
+        "datum": "2026-07-13"
+    }, {
+        "start": "Psalm 7,1",
+        "ende": "Psalm 7,18",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-12"
+    }, {
+        "start": "1. Korinther 14,1",
+        "ende": "1. Korinther 14,25",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-13"
+    }, {
+        "start": "1. Korinther 14,26",
+        "ende": "1. Korinther 14,40",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-14"
+    }, {
+        "start": "1. Korinther 15,1",
+        "ende": "1. Korinther 15,34",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-15"
+    }, {
+        "start": "1. Korinther 15,35",
+        "ende": "1. Korinther 15,58",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-16"
+    }, {
+        "start": "1. Korinther 16,1",
+        "ende": "1. Korinther 16,24",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-17"
+    }, {
+        "start": "2. Korinther 1,1",
+        "ende": "2. Korinther 1,24",
+        "buch": "Handy",
+        "seite": "13",
+        "kreis": "JÜS ",
+        "datum": "2026-04-18"
+    }, {
+        "start": "Psalm 8,1",
+        "ende": "Psalm 8,10",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-19"
+    }, {
+        "start": "2. Korinther 2,1",
+        "ende": "2. Korinther 2,17",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-20"
+    }, {
+        "start": "2. Korinther 3,1",
+        "ende": "2. Korinther 3,18",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-21"
+    }, {
+        "start": "2. Korinther 4,1",
+        "ende": "2. Korinther 4,18",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-22"
+    }, {
+        "start": "2. Korinther 5,1",
+        "ende": "2. Korinther 5,21",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-23"
+    }, {
+        "start": "2. Korinther 6,1",
+        "ende": "2. Korinther 6,18",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-24"
+    }, {
+        "start": "2. Korinther 7,1",
+        "ende": "2. Korinther 7,16",
+        "buch": "Handy",
+        "seite": "14",
+        "kreis": "JÜS ",
+        "datum": "2026-04-25"
     }
+
+
 ]
 
 
